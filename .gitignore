@@ -27,3 +27,6 @@ Thumbs.db
 # 로그 파일
 *.log
 npm-debug.log*
+
+# GitHub에는 올리지 않는 로컬 전용 파일
+lecture1/프롬프트.txt
